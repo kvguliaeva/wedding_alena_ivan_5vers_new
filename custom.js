@@ -41,7 +41,7 @@
     "#rec867221430 .tn-elem[data-elem-id='1740945234453']{top:92px!important;left:calc(50% - 160px + 17px)!important;width:286px!important}",
     "#rec867221430 .tn-elem[data-elem-id='1739747157108']{display:none!important}",
     "#rec867221430 .tn-elem[data-elem-id='1740947825709'],#rec867221430 .tn-elem[data-elem-id='1740947825714'],#rec867221430 .tn-elem[data-elem-id='1740947818559'],#rec867221430 .tn-elem[data-elem-id='1740947818561']{display:none!important}",
-    ".dresscode-gallery{position:absolute;top:1352px;left:calc(50% - 160px + 10px);width:300px;display:grid;grid-template-columns:repeat(2,1fr);gap:7px;z-index:28}",
+    ".dresscode-gallery{position:absolute;top:1500px;left:calc(50% - 160px + 10px);width:300px;display:grid;grid-template-columns:repeat(2,1fr);gap:7px;z-index:28}",
     ".dresscode-gallery img{width:100%;height:96px;display:block;object-fit:cover;border-radius:0}",
     "#rec867221430 .tn-elem[data-elem-id='1740948279142']{display:none!important}",
     "#rec867221430 .tn-elem[data-elem-id='1740950458035']{display:table!important;top:1987px!important;left:calc(50% - 160px + 59px)!important;z-index:30!important}",
